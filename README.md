@@ -1,2 +1,3 @@
 # Robot-photographe
 Engin d'approche et de prise de vue de faune sauvage.
+Ce véhicule doit pouvoir transporter une charge de 5 kg à proximité d'un animal quelconque sans éveiller sa méfiance. Il doit pouvoir évoluer dans de nombreux diotopes différents. Cailloux sable galet boue mer lac fôret landes etc...
